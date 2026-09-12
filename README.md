@@ -39,10 +39,18 @@
 * Comme dans le premier exercice, `NotificationManager` ne dépend pas directement des classes `EmailNotification`, `SMSNotification` ou `PushNotification`. Il utilise uniquement les méthodes définies par l’interface `Notification`.
 * Cette conception facilite l’évolution du programme : pour ajouter un nouveau canal, comme `SlackNotification`, il suffit de créer une classe qui implémente l’interface, sans modifier le fonctionnement du gestionnaire. Cela illustre le principe **Open/Closed**.
 
-<img width="1270" height="674" alt="1" src="images/Capture d'écran 2026-09-10 040018.png" />
+<img width="1270" height="674" alt="1" src="image/Capture d'écran 2026-09-12 034209.png" />
 
-<img width="1270" height="674" alt="1" src="images/Capture d'écran 2026-09-10 040044.png" />
+<img width="1270" height="674" alt="1" src="image/Capture d'écran 2026-09-12 034225.png" />
 
-<img width="1270" height="674" alt="1" src="images/Capture d'écran 2026-09-10 040058.png" />
+<img width="1270" height="674" alt="1" src="image/Capture d'écran 2026-09-12 034341.png" />
 
-<img width="1270" height="674" alt="1" src="images/Capture d'écran 2026-09-10 050915.png" />
+<img width="1270" height="674" alt="1" src="image/Capture d'écran 2026-09-12 034348.png" />
+
+<img width="1270" height="674" alt="1" src="image/Capture d'écran 2026-09-12 034402.png" />
+
+<img width="1270" height="674" alt="1" src="image/Capture d'écran 2026-09-12 034413.png" />
+
+<img width="1270" height="674" alt="1" src="image/Capture d'écran 2026-09-12 034424.png" />
+
+<img width="1270" height="674" alt="1" src="image/Capture d'écran 2026-09-12 034434.png" />
