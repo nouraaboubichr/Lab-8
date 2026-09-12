@@ -9,21 +9,25 @@
 * L’objectif principal est de montrer le **découplage** entre les différentes classes. `PaymentProcessor` travaille uniquement avec l’interface `PaymentMethod` et n’a pas besoin de connaître le fonctionnement interne de `CreditCard`, `PayPal` ou `Bitcoin`.
 * Ainsi, si l’on souhaite ajouter un nouveau moyen de paiement, comme `ApplePay`, il suffit de créer une nouvelle classe qui implémente `PaymentMethod`. Le fonctionnement de `PaymentProcessor` reste inchangé.
 
-<img width="1270" height="674" alt="1" src="images/Capture d'écran 2026-09-10 040018.png" />
+<img width="1270" height="674" alt="1" src="image/Capture d'écran 2026-09-12 033323.png" />
 
-<img width="1270" height="674" alt="1" src="images/Capture d'écran 2026-09-10 040044.png" />
+<img width="1270" height="674" alt="1" src="image/Capture d'écran 2026-09-12 033331.png" />
 
-<img width="1270" height="674" alt="1" src="images/Capture d'écran 2026-09-10 040058.png" />
+<img width="1270" height="674" alt="1" src="image/Capture d'écran 2026-09-12 033343.png" />
 
-<img width="1270" height="674" alt="1" src="images/Capture d'écran 2026-09-10 050915.png" />
+<img width="1270" height="674" alt="1" src="image/Capture d'écran 2026-09-12 033352.png" />
 
-<img width="1270" height="674" alt="1" src="images/Capture d'écran 2026-09-10 040018.png" />
+<img width="1270" height="674" alt="1" src="image/Capture d'écran 2026-09-12 033411.png" />
 
-<img width="1270" height="674" alt="1" src="images/Capture d'écran 2026-09-10 040044.png" />
+<img width="1270" height="674" alt="1" src="image/Capture d'écran 2026-09-12 033418.png" />
 
-<img width="1270" height="674" alt="1" src="images/Capture d'écran 2026-09-10 040058.png" />
+<img width="1270" height="674" alt="1" src="image/Capture d'écran 2026-09-12 033425.png" />
 
-<img width="1270" height="674" alt="1" src="images/Capture d'écran 2026-09-10 050915.png" />
+<img width="1270" height="674" alt="1" src="image/Capture d'écran 2026-09-12 033436.png" />
+
+<img width="1270" height="674" alt="1" src="image/Capture d'écran 2026-09-12 033444.png" />
+
+<img width="1270" height="674" alt="1" src="image/Capture d'écran 2026-09-12 033455.png" />
 
 # Exercice 2 - Système de notification extensible (interfaces + tri)
 
